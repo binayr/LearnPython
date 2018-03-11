@@ -1,5 +1,20 @@
 # LearnPython
 
+Course Topics
+-------------
+1. Introduction (Datatypes and basics)
+2. Data Containers (List, Tuple, Dictionary)
+3. Sets, Indentations, Control Statements (If, Elif, Else), Loops (For, While)
+4. Iterators, Generators, List Comprehension, Dictionary Comprehension
+5. String Manipulation and Exception Handling.
+6. Functions and Arguments
+7. Classes
+8. FileIO
+9. Modules and Packages
+10. Decorators
+11. Virtual Environment and external Libraries
+12. WebScraping task
+
 
 Installation
 ------------
