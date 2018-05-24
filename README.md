@@ -13,7 +13,9 @@ Course Topics
 9. Modules and Packages
 10. Decorators
 11. Virtual Environment and external Libraries
-12. WebScraping task
+12. More about Iterators and Generators
+13. WebScraping task 
+
 
 
 Installation
