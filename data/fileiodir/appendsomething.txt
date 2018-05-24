@@ -1,0 +1,7 @@
+hello world
+
+this is a python file io demo for append mode
+
+text with in a file
+
+bye byehello world v2hello world v2

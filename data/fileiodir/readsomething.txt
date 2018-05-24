@@ -1,0 +1,7 @@
+hello world
+
+this is a python file io demo
+
+text with in a file
+
+bye bye
