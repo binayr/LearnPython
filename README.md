@@ -33,3 +33,17 @@ clone this project in a directory, go to the particular directory and type
 
 
 You are ready to start
+
+
+Docker Container
+-----------------
+
+Just do a,
+
+```
+docker pull binayray2009/learnpython
+
+docker run -it --rm -p 80:8888 -d learnpython bash
+```
+
+This will run the notebook on localhost. Check docker log for token.
